@@ -2,7 +2,7 @@ import random
 num = input('login ')
 mun = input('pas')
 pas = ''
-passSynbol = ''
+passSumbols = ''
 length = input('длина пароля?'+ "\n")
 length = int(length)
 for x in range(length): #Количество символов (length)
